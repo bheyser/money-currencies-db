@@ -1,0 +1,11 @@
+{
+    "name": "bheyser/money-currencies-db",
+    "type":  "library",
+    "description": "RubyMoney/money",
+    "keywords": ["jsgrid", "jquery"],
+    "homepage": "",
+    "license": "",
+    "authors": [
+        {"name": "RubyMoney", "email": ""}
+    ]
+}
